@@ -1,4 +1,6 @@
 Thinkful-projects
 =================
 
-thinkful-mentored-projects
+
+
+All my ThinkFul Projects. --- http://thewaterbearer.github.io/thinkful-projects/
